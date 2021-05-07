@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alesia (Lacy/Lesi) Stewart 
+- 👀 I’m interested in sports analytics, additive manufacturing, and Industrial 4.0
+- 🌱 I’m currently learning HTML, CSS, R, Python, and JavaScript
+- 💞️ I’m looking to collaborate on any and everything, any project is an opportunity to get better
+- 📫 How to reach me alesia.nstewart@gmail.com
